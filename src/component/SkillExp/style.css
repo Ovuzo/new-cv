@@ -1,0 +1,29 @@
+/*utility class*/
+.py-1{
+    padding: 1rem 0 0 0;
+}
+.py-2{
+    padding: 0.5rem 0;
+}
+.py-top{
+    padding: 0.5rem  0 0 0;
+}
+.p-left{
+    padding: 0 0 0 2.5rem;
+}
+.skill{
+    width: 60%;
+    margin: auto;
+    
+}
+.skill-wrap{
+    width: 90%;
+    margin: auto;
+    
+}
+.ul-wrap{
+    display: flex;
+}
+.ul-wrap, .list-1, .list-2{
+    flex: 1;
+}

@@ -1,0 +1,24 @@
+/*utility class*/
+.py-1{
+    padding: 1rem 0 0 0;
+}
+.py-2{
+    padding: 0.5rem 0;
+}
+.py-top{
+    padding: 0.5rem 0 0 0;
+}
+.p-left{
+    padding: 0 0 0 2.5rem;
+}
+.exp{
+    width: 60%;
+    margin: auto;
+}
+.exp-wrap{
+    width: 90%;
+    margin: auto;
+}
+.m-heading{
+    font-size: large;
+}

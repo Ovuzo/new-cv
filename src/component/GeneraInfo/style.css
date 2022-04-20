@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*utility class*/
+.py-1{
+    padding: 2rem 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.wrap{
+    width: 90%;
+    margin: auto;
+}
+.container{
+    width: 60%;
+    background: blue;
+    margin: auto;
+    color:#ffffff;
+    height: 180px;
+}
+.name h1{
+    font-size: 48px;
+}

@@ -1,0 +1,21 @@
+/*utility class*/
+.py-1{
+    padding: 1rem 0 0 0;
+}
+.py-2{
+    padding: 0.5rem 0 ;
+}
+.py-top{
+    padding: 0.5rem 0 0 0;
+}
+.edu{
+    width: 60%;
+    margin: auto;
+}
+.edu-wrap{
+    width: 90%;
+    margin: auto;
+}
+.edu-wrap p{
+    display: inline;
+}
